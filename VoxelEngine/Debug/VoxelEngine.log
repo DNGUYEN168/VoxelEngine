@@ -1,0 +1,38 @@
+﻿  Scanning sources for module dependencies...
+  VoxelEngine.cpp
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(70,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(71,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(74,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(75,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(76,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(77,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(114,21): warning C4305: '+=': truncation from 'double' to 'T'
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(114,21): warning C4305:         with
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(114,21): warning C4305:         [
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(114,21): warning C4305:             T=float
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(114,21): warning C4305:         ]
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(116,21): warning C4305: '-=': truncation from 'double' to 'T'
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(116,21): warning C4305:         with
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(116,21): warning C4305:         [
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(116,21): warning C4305:             T=float
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(116,21): warning C4305:         ]
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+C:\Users\Dat\Desktop\3dRender\VoxelEngine\src\TestWorld.hpp(221,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/VoxelEngine.cpp')
+  
+  VoxelEngine.vcxproj -> C:\Users\Dat\Desktop\3dRender\VoxelEngine\Debug\VoxelEngine.exe

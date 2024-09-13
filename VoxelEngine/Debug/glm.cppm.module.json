@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "VoxelEngine\\Debug\\glm.cppm.obj",
+            "outputs": [
+                "C:\\Users\\Dat\\Desktop\\3dRender\\VoxelEngine\\VoxelEngine\\Debug\\vc143.pdb",
+                "VoxelEngine\\Debug\\",
+                "C:\\Users\\Dat\\Desktop\\3dRender\\VoxelEngine\\VoxelEngine\\Debug\\glm.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glm",
+                    "source-path": "c:\\users\\dat\\desktop\\3drender\\voxelengine\\src\\vendor\\glm\\glm.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
